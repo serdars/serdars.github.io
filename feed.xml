@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog Name</title>
-  <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
-  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <title>Leaf</title>
+  <subtitle>One in many, many in one.</subtitle>
+  <id>https://serdars.github.io/</id>
+  <link href="https://serdars.github.io/"/>
+  <link href="https://serdars.github.io/feed.xml" rel="self"/>
   <updated>2014-08-13T17:52:00-07:00</updated>
   <author>
-    <name>Blog Author</name>
+    <name>Serdar Sutay</name>
   </author>
   <entry>
     <title>About Beginnings</title>
-    <link rel="alternate" href="http://blog.url.com/2014/08/14/about-beginnings.html"/>
-    <id>http://blog.url.com/2014/08/14/about-beginnings.html</id>
+    <link rel="alternate" href="https://serdars.github.io/2014/08/14/about-beginnings.html"/>
+    <id>https://serdars.github.io/2014/08/14/about-beginnings.html</id>
     <published>2014-08-13T17:52:00-07:00</published>
     <updated>2014-08-16T01:40:58-07:00</updated>
     <author>
-      <name>Article Author</name>
+      <name>Serdar Sutay</name>
     </author>
+    <summary type="html">&lt;p&gt;Sometimes we make a big deal out of beginnings. We put together detailed plans, prepare ourselves to bravely execute before beginning something. And we expect to feel differently right after them. After all we are not the same person anymore after beginning that thing. The world is a different place now. Or is it?&lt;/p&gt;
+
+&lt;p&gt;</summary>
     <content type="html">&lt;p&gt;Sometimes we make a big deal out of beginnings. We put together detailed plans, prepare ourselves to bravely execute before beginning something. And we expect to feel differently right after them. After all we are not the same person anymore after beginning that thing. The world is a different place now. Or is it?&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
